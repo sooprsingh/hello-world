@@ -1,6 +1,6 @@
-<form action="action_page.php">
+<form action="index.jsp">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>Updated for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
